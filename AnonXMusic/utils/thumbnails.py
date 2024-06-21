@@ -8,7 +8,7 @@ from unidecode import unidecode
 from youtubesearchpython.__future__ import VideosSearch
 
 from AnonXMusic import app
-from config import YOUTUBE_IMG_URL
+from config import YOUTUBE_IMG_URL, BOT_USERNAME
 
 
 def changeImageSize(maxWidth, maxHeight, image):
@@ -73,7 +73,7 @@ async def get_thumb(videoid):
         draw = ImageDraw.Draw(background)
         arial = ImageFont.truetype("AnonXMusic/assets/font2.ttf", 30)
         font = ImageFont.truetype("AnonXMusic/assets/font.ttf", 30)
-        draw.text((1110, 8), unidecode(app.name), fill="white", font=arial)
+        draw.text((1110, 8), unidecode(BOT_USERNAME), fill="white", font=arial)
         draw.text(
             (55, 560),
             f"{channel} | {views[:23]}",
