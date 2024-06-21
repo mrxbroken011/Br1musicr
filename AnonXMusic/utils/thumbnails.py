@@ -8,14 +8,12 @@ from youtubesearchpython.__future__ import VideosSearch
 from AnonXMusic import app
 from config import YOUTUBE_IMG_URL, BOT_USERNAME
 
-
 def change_image_size(max_width, max_height, image):
     width_ratio = max_width / image.size[0]
     height_ratio = max_height / image.size[1]
     new_width = int(width_ratio * image.size[0])
     new_height = int(height_ratio * image.size[1])
     return image.resize((new_width, new_height))
-
 
 def clear(text):
     words = text.split(" ")
@@ -24,7 +22,6 @@ def clear(text):
         if len(title) + len(word) < 60:
             title += " " + word
     return title.strip()
-
 
 async def get_thumb(video_id, requester_pfp_url):
     cache_path = f"cache/{video_id}.png"
@@ -110,6 +107,9 @@ async def get_thumb(video_id, requester_pfp_url):
         os.remove(f"cache/requester_{video_id}.png")
         background.save(cache_path)
         return cache_path
+    except TypeError as e:
+        print(f"TypeError: {e}")
     except Exception as e:
-        print(e)
-        return YOUTUBE_IMG_URL
+        print(f"Exception: {e}")
+    return YOUTUBE_IMG_URL
+
