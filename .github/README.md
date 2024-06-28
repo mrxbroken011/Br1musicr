@@ -24,7 +24,7 @@
 
 <h3 align="center">
     ─「 𝗗𝗘𝗣𝗟𝗢𝗬 」─
- <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrxbroken011/Brx1nMusic"> <img src="https://img.shields.io/badge/ME HOON DEPLOY 😥 BUTTON%20%20-black?style=for-the-badge&logo=MRXBROKEN" width="220" height="38.45"/></a></p>   
+ <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrxbroken011/Brx1nMusic"> <img src="https://img.shields.io/badge/HEROKU DEPLOY KARLO%20%20-black?style=for-the-badge&logo=MRXBROKEN" width="320" height="40"/></a></p>   
 </h3>
 ━
 
