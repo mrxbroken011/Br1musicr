@@ -3,8 +3,9 @@
 ʙʀx𝟷ɴᴍᴜsɪᴄ 
 
 
-<h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> 𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗔𝗡𝗢𝗡𝗫𝗠𝗨𝗦𝗜𝗖 𝗥𝗘𝗣𝗢 </h1>
 <p align="center">
+ 𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗔𝗡𝗢𝗡𝗫𝗠𝗨𝗦𝗜𝗖 𝗥𝗘𝗣𝗢 </p>
+
    
 
 <p align="center">
